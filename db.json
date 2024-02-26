@@ -35,29 +35,6 @@
       "wideScreenImg": "https://iili.io/JEEm9cb.png",
       "mobileScreenImg": "https://iili.io/JEEbQN2.png",
       "link": "https://yas8295.github.io/React-WorldWise-app/"
-      
-    }
-  ],
- "services": [
-    {
-      "name": "Web Development",
-      "description": "Front-end developer, I transform the UI/UX design into Projects by using technologies like HTML,CSS, JAVASCRIPT and their Third-party libraries such as React JS and Tailwind CSS, Transform projects into Functional, Interactive Websites that deliver Exceptional Performance.",
-      "icon": "FaLaptopCode"
-    },
-    {
-      "name": "Integration with Back-end",
-      "description": "Communicate and Integrate with back-end services by using the most common way APIs (Application Programming Interfaces) to fetch data, submit forms and perform other operations.",
-      "icon": "FaCodeBranch"
-    },
-    {
-      "name": "User Experience Optimization",
-      "description": "Creating a positive and seamless experience for users, Improve the user experience based on user feedback and  analytics, ensuring that the application meets the needs and expectations of its users.",
-      "icon": "MdOutlineSettingsSuggest"
-    },
-    {
-      "name": "User Interface Design",
-      "description": "Designing user interfaces that are visually appealing, intuitive to use, and aligned with the brand identity of the application, Responsive Design and optimal user experience across all devices screens, Interactive Features such as Animations, transitions, and real-time updates to enhance the user experience.",
-      "icon": "LuLayoutDashboard"
     }
   ],
 }
