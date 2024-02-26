@@ -1,5 +1,5 @@
 {
- "projects": [
+  "projects": [
     {
       "id": 1,
       "name": "Classy Weather App",
@@ -17,7 +17,7 @@
       "wideScreenImg": "https://iili.io/JEW3TBf.png",
       "mobileScreenImg": "https://iili.io/JEEb73b.png",
       "link": "https://yas8295.github.io/React-hotel-app/"
-          },
+    },
     {
       "id": 3,
       "name": "Fast Pizza Resturant",
@@ -26,7 +26,7 @@
       "wideScreenImg": "https://iili.io/JEEb6cG.png",
       "mobileScreenImg": "https://iili.io/JEEbSnt.png",
       "link": "https://yas8295.github.io/React-Pizza-App/"
-          },
+    },
     {
       "id": 4,
       "name": "WorldWise",
@@ -36,5 +36,5 @@
       "mobileScreenImg": "https://iili.io/JEEbQN2.png",
       "link": "https://yas8295.github.io/React-WorldWise-app/"
     }
-  ],
+  ]
 }
