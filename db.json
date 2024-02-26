@@ -38,66 +38,26 @@
       
     }
   ],
-  "cities": [
+ "services": [
     {
-      "cityName": "Lisbon",
-      "country": [
-        "Portugal",
-        "pt"
-      ],
-      "emoji": "pt",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+      "name": "Web Development",
+      "description": "Front-end developer, I transform the UI/UX design into Projects by using technologies like HTML,CSS, JAVASCRIPT and their Third-party libraries such as React JS and Tailwind CSS, Transform projects into Functional, Interactive Websites that deliver Exceptional Performance.",
+      "icon": "FaLaptopCode"
     },
     {
-      "cityName": "Madrid",
-      "country": [
-        "Spain",
-        "es"
-      ],
-      "emoji": "es",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+      "name": "Integration with Back-end",
+      "description": "Communicate and Integrate with back-end services by using the most common way APIs (Application Programming Interfaces) to fetch data, submit forms and perform other operations.",
+      "icon": "FaCodeBranch"
     },
     {
-      "cityName": "Berlin",
-      "country": [
-        "Germany",
-        "de"
-      ],
-      "emoji": "de",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+      "name": "User Experience Optimization",
+      "description": "Creating a positive and seamless experience for users, Improve the user experience based on user feedback and  analytics, ensuring that the application meets the needs and expectations of its users.",
+      "icon": "MdOutlineSettingsSuggest"
     },
     {
-      "cityName": "Nijar",
-      "country": [
-        "Spain",
-        "es"
-      ],
-      "emoji": "es",
-      "date": "2023-04-03T07:47:59.202Z",
-      "notes": "",
-      "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
-      },
-      "id": 98443198
+      "name": "User Interface Design",
+      "description": "Designing user interfaces that are visually appealing, intuitive to use, and aligned with the brand identity of the application, Responsive Design and optimal user experience across all devices screens, Interactive Features such as Animations, transitions, and real-time updates to enhance the user experience.",
+      "icon": "LuLayoutDashboard"
     }
-  ]
+  ],
 }
