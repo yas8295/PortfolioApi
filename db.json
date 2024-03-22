@@ -5,8 +5,8 @@
       "name": "Classy Weather App",
       "framework": "REACT JS VERSION 16 & BOOTSTRAP CSS",
       "description": "Display the weather forecast for the next 7 days, background image of app Dynamically change based on the weather conditions, Responsive Design for all screen. Discover app and get the weather information of your city.",
-      "wideScreenImg": "https://iili.io/JEEmdHx.png",
-      "mobileScreenImg": "https://iili.io/JEEmHSj.png",
+      "wideScreenImg": "https://iili.io/JhnMD7e.png",
+      "mobileScreenImg": "https://iili.io/JhnMt29.png",
       "link": "https://yas8295.github.io/React-v.16-ClassyWether-app/"
     },
     {
@@ -14,8 +14,8 @@
       "name": "The Wild Oasis Hotel",
       "framework": "REACT JS & TAILWIND CSS",
       "description": "Fullstack App using Supabase with Authentication, Users can sign up by email, CRUD system users can create, update and delete cabins, users can check-in or check-out booking, dashboard with interactive charts and graphs. With Recharts library, Discover app and See more.",
-      "wideScreenImg": "https://iili.io/JEW3TBf.png",
-      "mobileScreenImg": "https://iili.io/JEEb73b.png",
+      "wideScreenImg": "https://iili.io/JhnhW3N.png",
+      "mobileScreenImg": "https://iili.io/JhnhM4p.png",
       "link": "https://yas8295.github.io/React-hotel-app/"
     },
     {
