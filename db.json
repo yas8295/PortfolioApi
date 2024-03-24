@@ -27,7 +27,7 @@
     {
       "name": "WorldWise",
       "framework": "REACT JS & BOOTSTRAP CSS",
-      "description": "WorldWise Keeps track of your adventures, a World map that tracks your footsteps into every city you can think of, Users can register all the cities that they have ever traveled to. Never forget your wonderful experiences, animation by using Framer-motion Library, Interactive map by using Leaflet library,  Dark mode feature, Discover app and See more",
+      "description": "WorldWise Keeps track of your adventures, a World map that tracks your footsteps into every city you can think of, Users can register all the cities that they have ever traveled to. Never forget your wonderful experiences, animation by using Framer-motion Library, Interactive map by using Leaflet library,  Dark mode feature, Discover app and See more.",
       "wideScreenImg": "https://iili.io/Jhn4tmx.png",
       "mobileScreenImg": "https://iili.io/Jhn4Q5b.png",
       "link": "https://yas8295.github.io/React-WorldWise-app/"
@@ -35,7 +35,7 @@
     {
       "name": "usePopcorn",
       "framework": "REACT JS & TAILWIND CSS",
-      "description": "a Small movies website that allows you to search through a vast collection of films, ranging from classics to the latest releases, Browse through extensive database of movies, including details such as plot summaries, cast and release dates, genres, and more, Additionally, you can create your own watchlist and track your favorite movies, Visit App and See more",
+      "description": "a Small movies website that allows you to search through a vast collection of films, ranging from classics to the latest releases, Browse through extensive database of movies, including details such as plot summaries, cast and release dates, genres, and more, Additionally, you can create your own watchlist and track your favorite movies, Visit App and See more.",
       "wideScreenImg": "https://iili.io/JhN6Uge.png",
       "mobileScreenImg": "https://iili.io/JhN6S19.png",
       "link": "https://yas8295.github.io/React-usePopcorn-app/"
@@ -43,7 +43,7 @@
     {
       "name": "The React Quiz",
       "framework": "REACT JS & BOOTSTRAP CSS",
-      "description": "a Small quiz website about Javascript Framework ReactJS to test your knowledge, quizzes cover a wide range of topics, including React fundamentals, component lifecycle, state management, hooks, and more. Each quiz is designed to be informative and engaging, helping you improve your React skills while having fun, Let's Start and Challenge yourself",
+      "description": "a Small quiz website about Javascript Framework ReactJS to test your knowledge, quizzes cover a wide range of topics, including React fundamentals, component lifecycle, state management, hooks, and more. Each quiz is designed to be informative and engaging, helping you improve your React skills while having fun, Let's Start and Challenge yourself.",
       "wideScreenImg": "https://iili.io/JhOR53x.png",
       "mobileScreenImg": "https://iili.io/JhORA4j.png",
       "link": "https://yas8295.github.io/React-Quiz-App/"
@@ -58,11 +58,19 @@
     },
     {
       "name": "Mapty",
-      "framework": " Vanilla Javascript & html & BOOTSTRAP CSS",
-      "description": "a web application that allows users to log their workouts (running or cycling) on a map, along with details such as distance, duration and workout type. Using Object-oriented programming (OOP) and the Leaflet library for map functionality and the Geolocation API to track user location, Users can click on the map to add a workout, which is then displayed as a marker on the map, including the ability to delete a workout. Each workout is stored in the browser's local storage, Discover app",
+      "framework": "Vanilla Javascript & html & BOOTSTRAP CSS",
+      "description": "a web application that allows users to log their workouts (running or cycling) on a map, along with details such as distance, duration and workout type. Using Object-oriented programming (OOP) and the Leaflet library for map functionality and the Geolocation API to track user location, Users can click on the map to add a workout, which is then displayed as a marker on the map, including the ability to delete a workout. Each workout is stored in the browser's local storage, Discover app.",
       "wideScreenImg": "https://iili.io/JhOb1MG.png",
       "mobileScreenImg": "https://iili.io/JhOD5hu.png",
       "link": "https://yas8295.github.io/project8/"
+    },
+    {
+      "name": "Pixelture",
+      "framework": "Vanilla Javascript & html & BOOTSTRAP CSS",
+      "description": "a Themeforest Template with more than 5 pages built using Vanilla Javascript with Responsive Design, Interactive Elements with animation, multi-step form and Images Slider by using SwiperJS library, Visit Website. ",
+      "wideScreenImg": "https://iili.io/Jhe30oN.png",
+      "mobileScreenImg": "https://iili.io/Jhe31VI.png",
+      "link": "https://yas8295.github.io/project7/index.html"
     }
   ],
   "services": [
