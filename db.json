@@ -87,6 +87,14 @@
       "wideScreenImg": "https://iili.io/JhgxEdJ.png",
       "mobileScreenImg": "https://iili.io/Jhgx0ga.png",
       "link": "https://yas8295.github.io/project6/"
+    },
+    {
+      "name": "Elzero Project",
+      "framework": "Vanilla Javascript & html & Css",
+      "description": "One of Elzero Web School Youtube Channel Projects, Responsive Design, visual effects like transitions and animations to enhance user experience and some additional features such as Scroll top Button, Page Progeess bar and more, Visit Website.",
+      "wideScreenImg": "https://iili.io/JhgrE3Q.png",
+      "mobileScreenImg": "https://iili.io/JhgrcCb.png",
+      "link": "https://yas8295.github.io/project3/"
     }
   ],
   "services": [
