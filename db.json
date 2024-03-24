@@ -39,6 +39,14 @@
       "wideScreenImg": "https://iili.io/JhN6Uge.png",
       "mobileScreenImg": "https://iili.io/JhN6S19.png",
       "link": "https://yas8295.github.io/React-usePopcorn-app/"
+    },
+    {
+      "name": "The React Quiz",
+      "framework": "REACT JS & BOOTSTRAP CSS",
+      "description": "a Small quiz website about Javascript Framework ReactJS to test your knowledge, quizzes cover a wide range of topics, including React fundamentals, component lifecycle, state management, hooks, and more. Each quiz is designed to be informative and engaging, helping you improve your React skills while having fun, Let's Start and Challenge yourself",
+      "wideScreenImg": "https://iili.io/JhOR53x.png",
+      "mobileScreenImg": "https://iili.io/JhORA4j.png",
+      "link": "https://yas8295.github.io/React-Quiz-App/"
     }
   ],
   "services": [
