@@ -47,6 +47,14 @@
       "wideScreenImg": "https://iili.io/JhOR53x.png",
       "mobileScreenImg": "https://iili.io/JhORA4j.png",
       "link": "https://yas8295.github.io/React-Quiz-App/"
+    },
+    {
+      "name": "Monteno",
+      "framework": " Vanilla Javascript & html & BOOTSTRAP CSS",
+      "description": "a Themeforest Template with more than 7 pages built using Vanilla Javascript ensuring compatibility across all devices and browsers. ensuring fast loading times and a smooth animation.",
+      "wideScreenImg": "https://iili.io/JhO8RvR.png",
+      "mobileScreenImg": "https://iili.io/JhO8AYv.png",
+      "link": "https://yas8295.github.io/project9/index.html"
     }
   ],
   "services": [
