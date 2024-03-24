@@ -51,7 +51,7 @@
     {
       "name": "Monteno",
       "framework": "Vanilla Javascript & html & BOOTSTRAP CSS",
-      "description": "a Themeforest Template with more than 7 pages built using Vanilla Javascript ensuring compatibility across all devices and browsers. ensuring fast loading times and a smooth animation.",
+      "description": "a Themeforest Template with more than 7 pages built using Vanilla Javascript ensuring compatibility across all devices and browsers. ensuring fast loading times and a smooth animation, Visit Website.",
       "wideScreenImg": "https://iili.io/JhO8RvR.png",
       "mobileScreenImg": "https://iili.io/JhO8AYv.png",
       "link": "https://yas8295.github.io/project9/index.html"
@@ -71,6 +71,14 @@
       "wideScreenImg": "https://iili.io/Jhe30oN.png",
       "mobileScreenImg": "https://iili.io/Jhe31VI.png",
       "link": "https://yas8295.github.io/project7/index.html"
+    },
+    {
+      "name": "Bankist",
+      "framework": "Vanilla Javascript & html & BOOTSTRAP CSS",
+      "description": "Bankist is a fictional online banking website, The project typically includes features like user authentication, account summaries, transaction history and also ensuring Lazy Loading images, Images Slider, Tabs and animation, all features by just using Vanilla Javascript, Visit App.",
+      "wideScreenImg": "https://iili.io/JhgKZDF.png",
+      "mobileScreenImg": "https://iili.io/JhgKLAP.png",
+      "link": "https://yas8295.github.io/project5/html/login.html"
     }
   ],
   "services": [
