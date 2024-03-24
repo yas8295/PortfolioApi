@@ -50,11 +50,19 @@
     },
     {
       "name": "Monteno",
-      "framework": " Vanilla Javascript & html & BOOTSTRAP CSS",
+      "framework": "Vanilla Javascript & html & BOOTSTRAP CSS",
       "description": "a Themeforest Template with more than 7 pages built using Vanilla Javascript ensuring compatibility across all devices and browsers. ensuring fast loading times and a smooth animation.",
       "wideScreenImg": "https://iili.io/JhO8RvR.png",
       "mobileScreenImg": "https://iili.io/JhO8AYv.png",
       "link": "https://yas8295.github.io/project9/index.html"
+    },
+    {
+      "name": "Mapty",
+      "framework": " Vanilla Javascript & html & BOOTSTRAP CSS",
+      "description": "a web application that allows users to log their workouts (running or cycling) on a map, along with details such as distance, duration and workout type. Using Object-oriented programming (OOP) and the Leaflet library for map functionality and the Geolocation API to track user location, Users can click on the map to add a workout, which is then displayed as a marker on the map, including the ability to delete a workout. Each workout is stored in the browser's local storage, Discover app",
+      "wideScreenImg": "https://iili.io/JhO8RvR.png",
+      "mobileScreenImg": "https://iili.io/JhOD5hu.png",
+      "link": "https://yas8295.github.io/project8/"
     }
   ],
   "services": [
