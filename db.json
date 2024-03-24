@@ -79,6 +79,14 @@
       "wideScreenImg": "https://iili.io/JhgKZDF.png",
       "mobileScreenImg": "https://iili.io/JhgKLAP.png",
       "link": "https://yas8295.github.io/project5/html/login.html"
+    },
+    {
+      "name": "Hustbee",
+      "framework": "Vanilla Javascript & html & Css",
+      "description": "a Themeforest Template with more than 9 pages built using Vanilla Javascript ensuring compatibility across all devices and browsers. ensuring fast loading times, smooth animation, Images Slider and Dark mode Header by using Vanilla Javascript, Visit Website.",
+      "wideScreenImg": "https://iili.io/JhgxEdJ.png",
+      "mobileScreenImg": "https://iili.io/Jhgx0ga.png",
+      "link": "https://yas8295.github.io/project6/"
     }
   ],
   "services": [
